@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd0ZTBqNnV6M3Q5NjFkdHA4bjY0dXAyMDllaGc4cjJtd3A3YXV3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udhngZK2IFTc4/giphy.gif" />
+<img src="https://media.giphy.com/media/3osxYlSDn290VbV076/giphy.gif" />
 
 ### Hi there
 My Name is Donny I'm a software engineer with management skills. My passion is creating, leading & inspiring teams through challenges. Battle-tested and ready for any scenario. 
