@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/3osxYlSDn290VbV076/giphy.gif" />
 
 ### Hi there
-My Name is Donny I'm a software engineer with management skills. My passion is creating, leading & inspiring teams through challenges. Battle-tested and ready for any scenario. 
+My Name is Donny I'm a software engineer with management skills. My passion is creating, leading & inspiring teams through challenges. I'm Battle-tested and ready for any scenario that's given to me. 
 
 Here's some of my tech stacks:
 
