@@ -1,7 +1,7 @@
 ### Hi there
-My Name is Donny I am focusing on web development and possibly DevOps/SRE.
+My Name is Donny I'm a software engineer with management skills. My passion is creating, leading & inspiring teams through challenges. Battle-tested and ready for any scenario. 
 
-Here's some of my interests:
+Here's some of my tech stacks:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
